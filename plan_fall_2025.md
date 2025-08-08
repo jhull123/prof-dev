@@ -2,15 +2,35 @@
 
 My professional development and career goals for the Fall of 2025.
 
-_Describe high level goals for Fall '25!_
+## High-level goals for Fall '25!
 
-# July
+#### Skills
+Learn these skills. Use projects and courses (LinkedIn Learning, Coursera, etc.)
+- RAG
+- Fine-tuning and continued pre-training
+- MCP
+- Agentic AI
+
+#### Books
+- _AI Engineering_
+- _The Hundred-Page Language Models Book_
+
+### Battle Hexes
+Use [Battle Hexes](https://github.com/jhull123/battle-hexes) as my playground for AI (of all kinds) and AWS.
+- Finish first RL agent (Q-Learning)
+- AWS development environment (IAC with CloudFormation)
+
+### LinkedIn
+
+### Career change
+
+### July
 
 ## Week of 27 July
 
-✔ AI Engineering, Chapter 1
-✔ LinkedIn About Me update
-✔ Add projects to LinkedIn profile
+- ✔ AI Engineering, Chapter 1
+- ✔ LinkedIn About Me update
+- ✔ Add projects to LinkedIn profile
 
 # August
 
