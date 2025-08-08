@@ -19,10 +19,19 @@ Learn these skills. Use projects and courses (LinkedIn Learning, Coursera, etc.)
 Use [Battle Hexes](https://github.com/jhull123/battle-hexes) as my playground for AI (of all kinds) and AWS.
 - Finish first RL agent (Q-Learning)
 - AWS development environment (IAC with CloudFormation)
-
+- Q-Learning agent training in the cloud
+- Reserve domain
+- Move license off of CC0
+- Integrate Gen AI (e.g., scenario designer, game dialog)
+- Game state persistence (database)
+  
 ### LinkedIn
+- Refreshed profile
+- A few blog posts on AI-related topics
 
-### Career change
+### Career Path
+- Find and apply to AI-related engineering jobs
+- Update career plan (Fall or Winter) with learnings
 
 ### July
 
@@ -78,6 +87,34 @@ _Focus for this month_
 
 ## Week of 26 October
 
+# Learning Ideas
+
+## Tiny Complementary Projects (1–2 weeks each)
+These add resume breadth.
+
+| Project | What It Teaches |
+| --- | --- |
+| LangChain / LlamaIndex chatbot on custom documents | Practical RAG (Retrieval Augmented Generation) |
+| Hugging Face Transformers fine-tune on a small dataset | Model tuning & evaluation |
+| ML pipeline w/ FastAPI + Pydantic + Docker | MLOps + backend fluency |
+| LLM-powered log parser for DevOps logs | Connects to your past career for instant relevance |
+| “Fake reviews” detector (NLP classification) | Foundation model + prompt-based vs fine-tuned comparison |
+
+Identify and execute 2–3 to balance Battle Hexes.
+
+---
+
+## Courses
+
+| Course | Why Take It |
+| --- | --- |
+| DeepLearning.AI – ChatGPT Prompt Engineering (free) | Fast ROI, very practical for LLM use |
+| Hugging Face Transformers Course (free) | Directly applies to modern LLM work |
+| Fast.ai (free) | Great for learning practical deep learning in context |
+| Full Stack Deep Learning | Understands the lifecycle of model dev to deployment |
+| Coursera: Reinforcement Learning Specialization (David Silver) | Optional but high value if you’re RL-heavy |
+
+Avoid overcommitting to long, academic-style ML certs unless they’re needed for a role (they often aren’t).
 
 ## Week of 26 October
 
