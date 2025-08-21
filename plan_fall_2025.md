@@ -6,10 +6,10 @@ My professional development and career goals for the Fall of 2025.
 
 #### Skills
 Learn these skills. Use projects and courses (LinkedIn Learning, Coursera, etc.)
+- Agentic AI
 - RAG
 - Fine-tuning and continued pre-training
 - MCP
-- Agentic AI
 
 #### Books
 - _AI Engineering_
@@ -36,7 +36,6 @@ Use [Battle Hexes](https://github.com/jhull123/battle-hexes) as my playground fo
 ### July
 
 ## Week of 27 July
-
 - ✔ AI Engineering, Chapter 1
 - ✔ LinkedIn About Me update
 - ✔ Add projects to LinkedIn profile
@@ -46,18 +45,26 @@ Use [Battle Hexes](https://github.com/jhull123/battle-hexes) as my playground fo
 _Focus for this month_
 
 ## Week of 3 August
-
-- AI Engineering, Chapter 2
-- Add LCD project to LinkedIn
-- Refresh current position entry on LinkedIn profile
+- ✔ AI Engineering, Chapter 2
 
 ## Week of 10 August
-
-- LinkedIn blog post: My SWE flow with AI
+- ✔ Complete AWS Dev environment for Battle Hexes Frontend
+- ✔ Register Domain for Battle Hexes and incoporate into AWS Dev environment
 
 ## Week of 17 August
 
+- ✔ Complete AWS Dev environment for Battle Hexes (Backend, Frontend, cache controls)
+- ✔ Complete Databricks Fundamentals and post certification on LinkedIn
+- AI Engineering, Chapter 3
+- Add LCD project to LinkedIn
+- Refresh current position entry on LinkedIn profile
+- Start first learning course and project for Agentic AI
+
 ## Week of 24 August
+
+- LinkedIn blog post: My SWE flow with AI
+- The Hundred Page Language Models Book, Chapter 1
+- Select other Gen AI courses and incorporate into learning path
 
 ## Week of 31 August
 
@@ -115,6 +122,3 @@ Identify and execute 2–3 to balance Battle Hexes.
 | Coursera: Reinforcement Learning Specialization (David Silver) | Optional but high value if you’re RL-heavy |
 
 Avoid overcommitting to long, academic-style ML certs unless they’re needed for a role (they often aren’t).
-
-## Week of 26 October
-
