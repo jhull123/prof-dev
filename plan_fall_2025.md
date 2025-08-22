@@ -52,16 +52,14 @@ _Focus for this month_
 - ✔ Register Domain for Battle Hexes and incoporate into AWS Dev environment
 
 ## Week of 17 August
-
 - ✔ Complete AWS Dev environment for Battle Hexes (Backend, Frontend, cache controls)
 - ✔ Complete Databricks Fundamentals and post certification on LinkedIn
-- AI Engineering, Chapter 3
+- ✔ AI Engineering, Chapter 3
 - Add LCD project to LinkedIn
 - Refresh current position entry on LinkedIn profile
 - Start first learning course and project for Agentic AI
 
 ## Week of 24 August
-
 - LinkedIn blog post: My SWE flow with AI
 - The Hundred Page Language Models Book, Chapter 1
 - Select other Gen AI courses and incorporate into learning path
